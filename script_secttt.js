@@ -1,4 +1,3 @@
-document.getElementById("footer").style.opacity = "0";
 document.body.innerHTML = `
 <style>
         * {
