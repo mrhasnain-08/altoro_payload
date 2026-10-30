@@ -1,4 +1,4 @@
-document.getElementById('footer').remove();
+document.getElementById('footer')?.remove();
 document.body.innerHTML = `
 <html> <head> <style>
         * {
