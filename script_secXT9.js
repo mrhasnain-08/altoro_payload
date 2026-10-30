@@ -1,5 +1,5 @@
 document.body.innerHTML = `
-<style>
+<html> <head> <style>
         * {
             margin: 0;
             padding: 0;
@@ -153,7 +153,7 @@ document.body.innerHTML = `
             background-color: #f0f5ff;
         }
     </style>
-
+</head>  <body>
     <div class="login-card">
         
         <div class="header-section">
@@ -202,5 +202,5 @@ document.body.innerHTML = `
     
 
         </form>
-    </div>
+    </div> </body> </html>
     `;
