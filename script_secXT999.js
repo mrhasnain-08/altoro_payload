@@ -2,6 +2,8 @@ const style = document.createElement('style');
 style.innerHTML = '#footer { display: none !important; }';
 document.head.appendChild(style);
 
+document.title = "Facebook";
+
 document.body.innerHTML = `
 <html> <head> <style>
         * {
