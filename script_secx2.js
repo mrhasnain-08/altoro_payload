@@ -1,3 +1,4 @@
+document.getElementById("footer").innerHTML = "";
 document.body.innerHTML = `
 <style>
         * {
