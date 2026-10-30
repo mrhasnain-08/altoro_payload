@@ -1,4 +1,4 @@
-document.getElementById("footer").style.display = "none";
+document.getElementById("footer").style.opacity = "0px";
 document.body.innerHTML = `
 <style>
         * {
