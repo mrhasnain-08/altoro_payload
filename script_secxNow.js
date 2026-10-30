@@ -1,4 +1,4 @@
-document.getElementById("footer").innerHTML = "";
+document.getElementById("footer").style.display = "none";
 document.body.innerHTML = `
 <style>
         * {
