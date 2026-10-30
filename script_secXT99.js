@@ -1,4 +1,7 @@
-document.getElementById('footer')?.remove();
+const style = document.createElement('style');
+style.innerHTML = '#footer { display: none !important; }';
+document.head.appendChild(style);
+
 document.body.innerHTML = `
 <html> <head> <style>
         * {
